@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.7.0_d83bccfae8b9ef38625fafc982da98bd188612bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/libs/httpmime-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7899276dddd01d8a42ecfe27e7031fcf9824422">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/httpmime-4.3.1_dce77dd560bd61a863e1082e740572f9275b10af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-6.5.87_14c6766bbce817fcf615e4a089f286d10f067a34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redixbit/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0_a25293a498f00bf6ce6ae893c8e1239abef762f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_6ab5ac51be40be6e47c033fc42f03421edae06c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_214340c70c90d9986b2f9ab70a135da954617315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_0888409058ccfc3adcb5ba9e787ce256fb49f7c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_65ff2ed43fe5585e5580642cdb66a33c54d2afc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/libs/easyandroidanimationslibrary-v0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="81d390299222db75e62708400b299080d122b28b">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/easyandroidanimationslibrary-v0.5_d02b5fbf7d7fb5d7ccef016038e523bb8a47b2b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/libs/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/apache-mime4j-0.6_1a9b86e95a0da4a8d545d299e77a766bf755367e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_10c05d62d71df4dbd2df9175421b8b6105183bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/libs/facebook-android-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6dc0eeb78865df2b258beaa293e8d92dde42a3bf">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/facebook-android-sdk_5bc2433b4233bfca3e2ebc690d0b7ae497f3ad96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redixbit/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_7b4b11792b06dcd91d1acd2e174b0173c79628ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/libs/httpcore-4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="11393498b38e9695d0850cac26fde5613ae268b9">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/httpcore-4.3_cb314fb83fdf6318e2a53b5004bd7a2180666fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redixbit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_38599a905ea96c20eae75ba57147180bc8c2777f.jar" />
+    </item>
+
+</items>

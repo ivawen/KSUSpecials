@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/title_bottom_border.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/title_bottom_border.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/terms.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/terms.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/homebtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/homebtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_small_blue.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_plusone_standard_off_client.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_small_white.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/teliphone_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/teliphone_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/book_the_table.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/book_the_table.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_xout.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/clock_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/clock_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/splashrestau.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/splashrestau.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/cancelnew.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/cancelnew.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_plusone_tall_off_client.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/second_cell.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/second_cell.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/add_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/add_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/star_1.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/star_1.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/first_cell.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/first_cell.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/time.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/time.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/veg_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/veg_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ok_btn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/ok_btn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/cancel.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/cancel.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/star_2.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/star_2.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_topnub.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/time_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/time_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/more_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/more_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_button_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_button_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/second_food_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/second_food_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/offer_page_img1.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/offer_page_img1.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/title_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/title_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/powered_by_google_light.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/sidebar_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/sidebar_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/car_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/car_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/social.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/social.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_focus_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/reviewcell.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/reviewcell.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/detail_page_img1.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/detail_page_img1.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/address_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/address_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/book_table_btn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/book_table_btn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/review_title.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/review_title.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/submitnew.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/submitnew.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/favbtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/favbtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/favourites.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/favourites.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/img_border12.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/img_border12.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/dialog_box_star2.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/dialog_box_star2.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/update_profile.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/update_profile.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/book_table.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/book_table.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_focus_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/profile.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/profile.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/veg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/veg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/minus_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/minus_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/messenger_button_send_round_shadow.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_plusone_medium_off_client.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/categories_page_img.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/categories_page_img.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/date_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/date_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/aboutus.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/aboutus.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/search.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/contact_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/contact_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_large_white.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/default_circle_img.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/default_circle_img.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/cell_fav12.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/cell_fav12.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/date.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/date.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_full_open_on_phone.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/b3.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/b3.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/termbtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/termbtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/detail_page_img.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/detail_page_img.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/category.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/category.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/cellcat.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/cellcat.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/filterbtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/filterbtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/powered_by_google_dark.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/favorites_unpress.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/favorites_unpress.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_topnub.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/red_star.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/red_star.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_black_background.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/comments_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/comments_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/btn_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/share.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/share.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_plusone_small_off_client.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/b1.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/b1.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/black_star.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/black_star.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/bottom_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/bottom_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/review_default_user.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/review_default_user.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/center_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/center_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/first_food_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/first_food_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/map1.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/map1.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/non_veg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/non_veg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ordernow_btn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/ordernow_btn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/messenger_bubble_large_blue.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/nonveg_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/nonveg_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_btn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/fb_btn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/profilebtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/profilebtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/aboutbtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/aboutbtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/favorites_press.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/favorites_press.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/update_profile_dialoag.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/update_profile_dialoag.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/offter_title.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/offter_title.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/submit.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/submit.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/add.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/timing_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/timing_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/update_button.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/update_button.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/drawer_shadow.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/dialobox_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/dialobox_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/filters.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/filters.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/b2.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/b2.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/start_circle.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/start_circle.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_normal_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/specialbtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/specialbtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/name_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/name_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/review.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/review.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/rate_2.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/rate_2.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/offer_title_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/offer_title_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/special_offer.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/special_offer.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/offer_page_img.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/offer_page_img.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/reviewbg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/reviewbg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_normal_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/title.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/title.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/load_more.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/load_more.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/company_icon_about.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/company_icon_about.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/video.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/video.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/ok.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/ok.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/catbtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/catbtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_focus_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/map.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/map.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/google_btn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/google_btn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_pressed_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/home.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/dialog_box_star1.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/dialog_box_star1.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/more_icon12.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/more_icon12.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/clock_border.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/clock_border.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/rate_1.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/rate_1.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/create_profile.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/create_profile.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/center_tex_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/center_tex_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/location_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/location_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/socialbtn.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/socialbtn.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/blank_white_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/blank_white_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_button_send_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/address_map_icon.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/address_map_icon.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_ic_googleplayservices.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_button_like_icon_selected.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/search_bg.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/search_bg.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_background.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_tooltip_blue_xout.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/promotions.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/promotions.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/com_facebook_close.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-hdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/home_page_cell_img.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/home_page_cell_img.png"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/drawable-hdpi/dialog_box.png",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/drawable-hdpi/dialog_box.png"
+    }
+]

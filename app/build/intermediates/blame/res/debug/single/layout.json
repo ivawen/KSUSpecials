@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_booktable.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_booktable.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/cellcat.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/cellcat.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/connectiondialog.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/connectiondialog.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/image_pager.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/image_pager.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/custom.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/custom.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/reviewcell2.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/reviewcell2.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_favourite.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/fragment_resthome.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/fragment_resthome.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/nav_drawer_item.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/nav_drawer_item.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/cellfav2.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/cellfav2.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_termcondition.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_termcondition.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_detailpage.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_detailpage.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/giverate.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/giverate.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/cellfav1.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/cellfav1.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_offer.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_offer.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/reviewcell1.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/reviewcell1.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/reviewclick_dialog.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/reviewclick_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/footer_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/footer_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_review.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_review.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_category.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/restcell.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/restcell.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_videopage.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_videopage.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_gmap.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_gmap.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/dialog_create.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/dialog_create.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/reviewcell.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/reviewcell.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/cellfav.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/cellfav.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/offercell.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/offercell.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/update_dialog.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/update_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/json_dilaog.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/json_dilaog.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/debug/layout/fragment_layout.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/layout/fragment_layout.xml"
+    }
+]

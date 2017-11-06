@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="freaktemplate.restaurant.Register">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+
+        <ImageView
+            android:id="@+id/img_header"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/search_bg" />
+
+        <TextView
+            android:id="@+id/textView1"
+            style="@style/MyTextViewStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="Profile"
+            android:typeface="sans" />
+    </RelativeLayout>
+
+    <freaktemplate.util.RoundedImageView
+        android:id="@+id/img_profile"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/relativeLayout1"
+        android:background="@drawable/default_circle_img" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_profile"
+        android:layout_marginLeft="20dp"
+        android:text="Name :"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+       />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:id="@+id/edt_name"
+        android:inputType="text"
+        android:layout_below="@+id/name"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:hint="Name"
+        android:paddingLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textColorHint="#3c3c3c"/>
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_name"
+        android:layout_marginLeft="20dp"
+        android:text="Email :"
+        android:textSize="20dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:id="@+id/edt_mail"
+        android:clickable="false"
+        android:focusable="false"
+        android:inputType="textEmailAddress"
+        android:layout_below="@+id/email"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:hint="Email"
+        android:paddingLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textColorHint="#3c3c3c"/>
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:id="@+id/edt_pwd"
+        android:clickable="false"
+        android:focusable="false"
+        android:visibility="gone"
+        android:inputType="textPassword"
+        android:layout_below="@+id/edt_mail"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:hint="Password"
+        android:paddingLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textColorHint="#3c3c3c"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/register"
+        android:layout_below="@+id/edt_pwd"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/submitnew"
+        android:text="Logout"
+        android:visibility="gone"
+        android:textColor="#ffffff"
+        android:textSize="25dp"/>
+</RelativeLayout>

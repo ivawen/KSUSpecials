@@ -1,0 +1,315 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:1-131:12
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\4868c1602416edc8a3d157cbf0782393\AndroidManifest.xml:16:1-26:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.7.0.aar\ace15c434a669f0c3fad4e72b51cd41e\AndroidManifest.xml:21:1-30:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\05475142ac778ee0d87a51fe1382f2cb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\892db8fedfdf01b851e27d64c2cf834d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e97464479763ae237af517fd6a78cd4d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\9a46738fbc1564687d9adcd611775b7b\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:1-131:12
+	package
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:6:5-51
+	xmlns:android
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\4868c1602416edc8a3d157cbf0782393\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\4868c1602416edc8a3d157cbf0782393\AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.7.0.aar\ace15c434a669f0c3fad4e72b51cd41e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.7.0.aar\ace15c434a669f0c3fad4e72b51cd41e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\05475142ac778ee0d87a51fe1382f2cb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\05475142ac778ee0d87a51fe1382f2cb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\892db8fedfdf01b851e27d64c2cf834d\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\892db8fedfdf01b851e27d64c2cf834d\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e97464479763ae237af517fd6a78cd4d\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e97464479763ae237af517fd6a78cd4d\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\9a46738fbc1564687d9adcd611775b7b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\9a46738fbc1564687d9adcd611775b7b\AndroidManifest.xml:20:5-43
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\05475142ac778ee0d87a51fe1382f2cb\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml
+permission#com.androidbunch.drawroutev2.permission.MAPS_RECEIVE
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:12:5-14:47
+	android:protectionLevel
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:13:9-76
+uses-feature#0x00020000
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:16:5-18:35
+	android:glEsVersion
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:18:9-32
+uses-permission#com.androidbunch.drawroutev2.permission.MAPS_RECEIVE
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:20:5-92
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:20:22-89
+uses-permission#android.permission.INTERNET
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:22:5-98
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:22:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:26:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:28:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:30:22-71
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:31:5-83
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:31:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:32:5-88
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:32:30-85
+application
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:34:5-129:19
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\4868c1602416edc8a3d157cbf0782393\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\4868c1602416edc8a3d157cbf0782393\AndroidManifest.xml:20:5-24:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.7.0.aar\ace15c434a669f0c3fad4e72b51cd41e\AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.7.0.aar\ace15c434a669f0c3fad4e72b51cd41e\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\05475142ac778ee0d87a51fe1382f2cb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\05475142ac778ee0d87a51fe1382f2cb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\892db8fedfdf01b851e27d64c2cf834d\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\892db8fedfdf01b851e27d64c2cf834d\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e97464479763ae237af517fd6a78cd4d\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\e97464479763ae237af517fd6a78cd4d\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\9a46738fbc1564687d9adcd611775b7b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\9a46738fbc1564687d9adcd611775b7b\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:37:9-41
+	android:largeHeap
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:38:9-33
+	android:icon
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:36:9-45
+	android:allowBackup
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:35:9-35
+meta-data#com.google.android.gms.version
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:39:9-41:69
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\4868c1602416edc8a3d157cbf0782393\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\ivawen\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\4868c1602416edc8a3d157cbf0782393\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:40:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:42:9-44:71
+	android:value
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:44:13-68
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:43:13-62
+activity#com.facebook.FacebookActivity
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:46:9-66
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:46:19-63
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:48:9-51:46
+	tools:ignore
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:51:13-44
+	android:value
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:50:13-52
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:49:13-58
+activity#ksuspecials.restaurant.Home
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:53:9-57:55
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:55:13-45
+	android:windowSoftInputMode
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:57:13-52
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:54:13-55
+activity#ksuspecials.restaurant.MainActivity
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:58:9-60:36
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:59:13-63
+activity#ksuspecials.restaurant.Detailpage
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:61:9-64:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:63:13-62
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:62:13-61
+activity#ksuspecials.restaurant.Gmap
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:66:13-55
+activity#ksuspecials.restaurant.Review
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:69:9-72:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:71:13-58
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:70:13-57
+activity#ksuspecials.restaurant.Offer
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:73:9-76:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:75:13-57
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:74:13-56
+activity#ksuspecials.restaurant.Videopage
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:77:9-79:64
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:79:13-61
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:78:13-60
+activity#ksuspecials.restaurant.Category
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:81:13-59
+activity#ksuspecials.restaurant.Favourite
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:84:9-87:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:86:13-61
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:85:13-60
+activity#ksuspecials.restaurant.Setting
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:88:9-91:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:90:13-59
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:89:13-58
+activity#ksuspecials.restaurant.About
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:92:9-95:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:95:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:94:13-57
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:93:13-56
+activity#ksuspecials.restaurant.Termcondition
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:96:9-99:52
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:98:13-65
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:97:13-64
+activity#com.google.android.gms.ads.AdActivity
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:100:9-103:64
+	android:configChanges
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:102:13-122
+	android:theme
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:103:13-61
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:101:13-65
+activity#ksuspecials.restaurant.Splash
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:104:9-113:20
+	android:screenOrientation
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:107:13-49
+	android:label
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:106:13-58
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:105:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:108:13-112:29
+action#android.intent.action.MAIN
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:109:17-69
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:109:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:111:17-77
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:111:27-74
+service#ksuspecials.restaurant.NotificationService
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:115:9-117:38
+	android:enabled
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:117:13-35
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:116:13-70
+receiver#ksuspecials.restaurant.AlarmReceiver
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:119:9-121:41
+	android:process
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:121:13-38
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:120:13-64
+activity#ksuspecials.restaurant.Login
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:126:9-65
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:126:19-62
+activity#ksuspecials.restaurant.Register
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:127:9-68
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:127:19-65
+activity#ksuspecials.restaurant.Profile
+ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:128:9-76
+	android:name
+		ADDED from E:\CLASSES\Intro de SW Eng\special-restaurant-finder\app\src\main\AndroidManifest.xml:128:19-64

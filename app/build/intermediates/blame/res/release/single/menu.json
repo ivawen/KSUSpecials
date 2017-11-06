@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/global.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/popbook.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/popbook.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/detailpage.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/detailpage.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/termcondition.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/termcondition.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/videopage.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/videopage.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/setting.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/setting.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/resthome.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/resthome.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/splash.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/splash.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/offer.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/offer.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/review.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/review.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/booktable.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/booktable.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/about.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/about.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/home.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/category.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/category.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/gmap.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/gmap.xml"
+    },
+    {
+        "merged": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/build/intermediates/res/merged/release/menu/favourite.xml",
+        "source": "/Volumes/Development/TemplateProject/AndroidTemplate/Restuarnat ALL/Main Package v3.0/Code/Resturant/app/src/main/res/menu/favourite.xml"
+    }
+]

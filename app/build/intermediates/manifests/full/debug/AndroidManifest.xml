@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="freaktemplate.restaurant"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <permission
+        android:name="com.androidbunch.drawroutev2.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="com.androidbunch.drawroutev2.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyAU9ShujnIg3IDQxtPr7Q1qOvFVdwNmWc4" />
+
+        <activity android:name="com.facebook.FacebookActivity" />
+        <!-- ZXing activities -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="ksuspecials.restaurant.Home"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="ksuspecials.restaurant.MainActivity"
+            android:label="Main" />
+        <activity
+            android:name="ksuspecials.restaurant.Detailpage"
+            android:label="@string/title_activity_detailpage"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.Gmap"
+            android:label="@string/title_activity_gmap"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.Review"
+            android:label="@string/title_activity_review"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.Offer"
+            android:label="@string/title_activity_offer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.Videopage"
+            android:label="@string/title_activity_videopage" />
+        <activity
+            android:name="ksuspecials.restaurant.Category"
+            android:label="@string/title_activity_category"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.Favourite"
+            android:label="@string/title_activity_favourite"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.Setting"
+            android:label="@string/title_activity_setting"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.About"
+            android:label="@string/title_activity_about"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="ksuspecials.restaurant.Termcondition"
+            android:label="@string/title_activity_termcondition"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="ksuspecials.restaurant.Splash"
+            android:label="@string/title_activity_splash"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="ksuspecials.restaurant.NotificationService"
+            android:enabled="true" />
+
+        <receiver
+            android:name="ksuspecials.restaurant.AlarmReceiver"
+            android:process=":remote" />
+        <!--
+             <receiver
+            android:name=".AlarmReceiver"/>
+        -->
+        <activity android:name="ksuspecials.restaurant.Login" />
+        <activity android:name="ksuspecials.restaurant.Register" />
+        <activity android:name="ksuspecials.restaurant.Profile" />
+    </application>
+
+</manifest>
